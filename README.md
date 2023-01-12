@@ -47,3 +47,11 @@
 - [Mkyoung](https://mkyong.com/)
 - [Java Deep](https://javax0.wordpress.com/)
 - [Program Creek](https://www.programcreek.com/)
+
+## YoutTube Channels
+  - English
+    - [Java Brains](https://www.youtube.com/@Java.Brains)
+
+- Portuguese
+  - [Michelli Brito](https://www.youtube.com/@MichelliBrito)
+  - [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
