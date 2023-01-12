@@ -41,7 +41,7 @@
       - [Functional Programming in Java](https://www.youtube.com/watch?v=rPSL1alFIjI)
   - Portuguese
     - [Java Básico / Java Intermediário / Estrutura de dados com Java - Loiane Groner](https://loiane.training/)
-    - [Java Básico / Java POO](https://www.cursoemvideo.com/)
+    - [Java Básico / Java POO - Curso em Vídeo](https://www.cursoemvideo.com/)
     
 ## Java Focused Blogs
 - [Mkyoung](https://mkyong.com/)
