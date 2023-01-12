@@ -1,6 +1,8 @@
 # Java Utilities
 > Some Java utilities
 
+<img src="https://animated-gif-creator.com/images/01/conference-season-mic-drop-13-java-talks-that-you-shouldn_10.gif" width=300 align='right'>
+
 ## General
 - [Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
