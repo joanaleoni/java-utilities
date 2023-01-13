@@ -20,7 +20,7 @@
 
 ## Roadmaps
 - [Roadmap.io](https://roadmap.sh/java/)
-- [Medium](https://medium.com/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+- [The 2022 Java Programmer RoadMap](https://medium.com/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
 
 ## Spring
 - [Spring.io](https://spring.io/)
