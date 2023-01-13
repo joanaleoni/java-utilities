@@ -1,7 +1,7 @@
 # Java Utilities
 > Some Java utilities
 
-<img src="https://animated-gif-creator.com/images/01/conference-season-mic-drop-13-java-talks-that-you-shouldn_10.gif" width=300 align='right'>
+<img src="https://animated-gif-creator.com/images/01/conference-season-mic-drop-13-java-talks-that-you-shouldn_10.gif" width=380 align='right'>
 
 ## General
 - [Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -35,7 +35,7 @@
       
 ## Free courses
   - English
-      - [Java - Geek for Geeks](https://www.geeksforgeeks.org/java/)
+      - [Java - Geeks for Geeks](https://www.geeksforgeeks.org/java/)
       - [HANDS ON DOCKER for JAVA Developers](https://www.udemy.com/course/introduction-to-docker-for-java-developers/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-CAlVG9.fgvg8gCq7OL9CJw&utm_medium=udemyads&utm_source=aff-campaign)
       - [Java Database Connection: JDBC and MySQL](https://www.udemy.com/course/how-to-connect-java-jdbc-to-mysql/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-opyc8XY7FTtrw_c7_8y9Uw&utm_medium=udemyads&utm_source=aff-campaign)
       - [Functional Programming in Java](https://www.youtube.com/watch?v=rPSL1alFIjI)
