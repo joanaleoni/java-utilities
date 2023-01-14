@@ -9,6 +9,7 @@
 - [Java Programming Guidelines](https://docs.oracle.com/cd/E19159-01/819-3681/abebf/index.html)
 - [Java Magazine](https://blogs.oracle.com/javamagazine/)
 - [Java Cheat Sheet](https://opensource.com/downloads/java-cheat-sheet)
+- [Using the Java Persistence API](https://opensource.com/article/19/10/using-java-persistence-api)
 
 ## Tutorials
 - [The Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/index.html)
