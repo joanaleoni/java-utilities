@@ -49,7 +49,7 @@
 - [Java Deep](https://javax0.wordpress.com/)
 - [Program Creek](https://www.programcreek.com/)
 
-## YoutTube Channels
+## YouTube Channels
   - English
     - [Java Brains](https://www.youtube.com/@Java.Brains)
 
